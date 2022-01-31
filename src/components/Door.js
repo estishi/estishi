@@ -14,7 +14,7 @@ class Door extends Component {
      console.log(c) 
     return <div>
         <button onClick={this.onClick}>לחץ כאן לפתיחה או סגירה</button>
-        c
+        ccfgbn
     </div>
   }
 }
